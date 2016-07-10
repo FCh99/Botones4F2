@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="25771362572001"
+    verifier="FIELD_TYPE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="160" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="9" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/faustocheca/Documents/ANDROID/MY_PROJECTS_FOLDER/Botones4F2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+
+    <build timestamp="24438689305196" >
+        <artifact
+            location="/Users/faustocheca/Documents/ANDROID/MY_PROJECTS_FOLDER/Botones4F2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="25159253928335" >
+        <artifact
+            location="/Users/faustocheca/Documents/ANDROID/MY_PROJECTS_FOLDER/Botones4F2/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="25771362572001"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/Users/faustocheca/Documents/ANDROID/MY_PROJECTS_FOLDER/Botones4F2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
